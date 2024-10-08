@@ -20,7 +20,7 @@ This project is a **Movie Recommendation System** built using machine learning t
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/movierecommendation.git
+   git clone https://github.com/jashwanth188/Movie-Recommendation-System.git
    cd movierecommendation
    ```
 
